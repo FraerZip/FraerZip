@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FraerZip
 - 👀 I’m interested in programmer
-- 🌱 I’m currently learning C# and c++
+- 🌱 I’m currently learning Python
 - 📫 How to reach me nothing
 
 <!---
